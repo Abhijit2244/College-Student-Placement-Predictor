@@ -91,7 +91,7 @@ The dataset contains **10,000 student records** with the following characteristi
 1. **Clone the repository** (if using Git):
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Abhijit2244/College-Student-Placement-Predictor.git
    cd "College Student Placement predictor"
    ```
 
